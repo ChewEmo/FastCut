@@ -1,0 +1,17 @@
+.workbuddy-ai/
+.taste-skill/
+tools/
+__pycache__/
+*.py[cod]
+*$py.class
+settings.json
+logs/
+*.log
+.cache/
+shots/
+*.mp4
+.venv/
+build/
+dist/
+Fastcut.spec
+BUILD.md
